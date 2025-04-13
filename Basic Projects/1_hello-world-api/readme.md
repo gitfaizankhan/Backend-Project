@@ -1,8 +1,27 @@
-## Backend Topics Covered in this Project  
+# 🌍 Hello World API
 
-This simple API covers some foundational backend topics:  
+A **basic Express.js server** with a single route to demonstrate how to set up a simple backend application. Ideal for beginners learning how to create and run a Node.js server.
 
-✅ **Setting up an Express.js server** – Creating a basic server with Express.js  
-✅ **Handling HTTP Requests** – Using `app.get()` to handle GET requests  
-✅ **Routing in Express.js** – Defining a route (`/`) and sending a response  
-✅ **Starting a Server** – Using `app.listen()` to run the server on a specific port  
+---
+
+## 📦 Project Structure
+
+
+---
+
+## 🚀 Features
+
+- ✅ Setup and run a basic Express server
+- ✅ Handle HTTP GET requests
+- ✅ Define a simple route (`/`)
+- ✅ Return a "Hello, World!" message as JSON
+- ✅ Use environment variables for port configuration
+
+---
+
+## 🔧 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/gitfaizankhan/Backend-Project.git
+   cd Basic Projects/1_hello-world-api
